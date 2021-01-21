@@ -12,6 +12,6 @@
     "express-art-template": "^1.0.1",
     "markdown-it": "^11.0.0",
     "serve-index": "^1.9.1",
-    "socket.io": "^2.3.0"
+    "socket.io": "^2.4.0"
   }
 }
