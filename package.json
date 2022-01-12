@@ -10,7 +10,7 @@
     "chokidar": "^3.4.1",
     "express": "^4.17.1",
     "express-art-template": "^1.0.1",
-    "markdown-it": "^11.0.0",
+    "markdown-it": "^12.3.2",
     "serve-index": "^1.9.1",
     "socket.io": "^2.3.0"
   }
