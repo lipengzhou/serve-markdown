@@ -8,7 +8,7 @@
   "dependencies": {
     "art-template": "^4.13.2",
     "chokidar": "^3.4.1",
-    "express": "^4.17.1",
+    "express": "^4.18.2",
     "express-art-template": "^1.0.1",
     "markdown-it": "^11.0.0",
     "serve-index": "^1.9.1",
